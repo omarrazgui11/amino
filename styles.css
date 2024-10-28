@@ -119,18 +119,18 @@ navul {
   }
   main {
     position: relative;
-    top:10px;
+    top: 0px;
+    
     left: 0;
     margin-left: 0;
     width: 100%;
     border-radius: 0px;
     padding: 5px;
+    padding-top: 30px;
   }
   .main-section {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     margin-bottom: 10px;
-    
   }
 }
